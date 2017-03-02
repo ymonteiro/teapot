@@ -1,0 +1,26 @@
+Welcome to your CSC148 Lab!
+TA: Yoann M
+This week's topic: BSTs
+==============
+
+Agenda:
+------
+1. A2 Pairings
+2. Lab
+
+==============
+1. A2 Pairings
+If anybody is looking for a partner for A2, come see me.
+
+==============
+2. Lab
+
+Lab URL: https://mcs.utm.utoronto.ca/~148/labs.shtml
+
+Always best to try and trace code yourself, but if you need a little help--
+Python Visualizer: pythontutor.com/visualize.html#mode=edit
+
+
+Common questions:
+-----------------
+
