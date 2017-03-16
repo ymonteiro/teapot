@@ -1,9 +1,0 @@
-You might wonder why print_list and print_backward are functions and not methods in the Node class. The reason is that we want to use None to represent the empty list and it is not legal to invoke a method on None. This limitation makes it awkward to write list – manipulating code in a clean object-oriented style.
-
-The fundamental ambiguity theorem describes the ambiguity that is inherent in a reference to a node: A variable that refers to a node might treat the node as a single object or as the first in a list of nodes.
-
-
----------------
-Lab
-
-Note, we only update front/back if the list is modified
